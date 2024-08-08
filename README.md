@@ -1,6 +1,6 @@
-# Introduction-to-Problem-Solving
+# Introduction-to-Problem-Solving Assignment:
 
-#### Assignment: CCourse: Introduction to Problem Solving
+### Course: Introduction to Problem Solving
 
 #### Subject: Computer Science
 
