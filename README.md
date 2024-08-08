@@ -1,14 +1,14 @@
 # Introduction-to-Problem-Solving
-Assignment: CCourse: Introduction to Problem Solving
-Subject: Computer Science
 
-Assignment Title: Comprehensive Problem Solving ProjectObjective:
+#### Assignment: CCourse: Introduction to Problem Solving
+
+#### Subject: Computer Science
+
+Assignment Title: Comprehensive Problem Solving ProjectObjective:
 This assignment aims to integrate all the key concepts covered in the course.
 
- Students will apply problem-solving techniques, algorithm design, flowchart creation, pseudocode writing, basic programming constructs, and debugging skills.Instructions:
+Students will apply problem-solving techniques, algorithm design, flowchart creation, pseudocode writing, basic programming constructs, and debugging skills.Instructions:
 You will complete a comprehensive project that involves the following components:
-
-
 
 • Define the problem clearly.
 • Analyze the problem to understand the requirements and constraints.
@@ -20,11 +20,10 @@ You will complete a comprehensive project that involves the following components
 • Test your program with various input cases to ensure correctness.
 • Debug any issues that arise during testing.
 
-Problems to Solve: Problem 1: Student Grades Management System
+Problems to Solve:
+Problem 1: Student Grades Management System
 Design and implement a system to manage student grades. The system should allow users to:Add a new student.Record grades for students.Calculate the average grade for each student.Determine the highest and lowest grades in the class.Display all student records.
 
-
-• 
 • Write an algorithm and draw a flowchart to represent the steps for managing student grades.
 • Write pseudocode for adding a student, recording grades, calculating averages, finding highest and lowest grades, and displaying records.
 • Implement the system in a programming language of your choice.
@@ -33,8 +32,6 @@ Design and implement a system to manage student grades. The system should allow 
 Problem 2: Simple Banking System
 Design and implement a simple banking system. The system should allow users to:Create a new account.Deposit money into an account.Withdraw money from an account.Check the balance of an account.Transfer money between accounts.
 
-
-• 
 • Write an algorithm and draw a flowchart to represent the steps for the banking operations.
 • Write pseudocode for creating an account, depositing, withdrawing, checking balance, and transferring money.
 • Implement the system in a programming language of your choice.
@@ -43,8 +40,6 @@ Design and implement a simple banking system. The system should allow users to:C
 Problem 3: Library Management System
 Design and implement a system to manage a library. The system should allow users to:Add new books to the library.Borrow books from the library.Return books to the library.Display all available books.Track overdue books.
 
-
-• 
 • Write an algorithm and draw a flowchart representing the steps for managing library operations.
 • Write pseudocode for adding books, borrowing, returning, displaying books, and tracking overdue books.
 • Implement the system in a programming language of your choice.
@@ -68,11 +63,11 @@ Submission:
 
 Evaluation Criteria:
 
-•  Solutions correctly address the given problems.
-•  Problem definitions, algorithms, pseudocode, and flowcharts are clear and logically structured.
-•  Programs work as expected and handle various input cases correctly.
-•  Flowcharts and diagrams are neatly drawn and easy to understand.
-•  Code is well-documented with comments, and test cases/results are clearly recorded.
-•  All components (problem definition, algorithms, flowcharts, pseudocode, code, tests) are included in the submission.
+• Solutions correctly address the given problems.
+• Problem definitions, algorithms, pseudocode, and flowcharts are clear and logically structured.
+• Programs work as expected and handle various input cases correctly.
+• Flowcharts and diagrams are neatly drawn and easy to understand.
+• Code is well-documented with comments, and test cases/results are clearly recorded.
+• All components (problem definition, algorithms, flowcharts, pseudocode, code, tests) are included in the submission.
 
-This comprehensive project will help you apply and integrate various problem-solving techniques learned throughout the course, providing a solid foundation in problem-solving and programming.
+This comprehensive project will help you apply and integrate various problem-solving techniques learned throughout the course, providing a solid foundation in problem-solving and programming.
