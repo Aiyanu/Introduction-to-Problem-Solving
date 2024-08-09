@@ -1,0 +1,74 @@
+Student Grades Management System
+1. Add Student
+2. Record Grades
+3. Calculate GPA
+4. Find Highest/Lowest Scores
+5. Display Records
+6. Exit
+
+Enter your choice: 1
+Enter student ID: 14
+Enter student name: James 
+Student added successfully.
+
+Enter your choice: 2
+Enter student ID: 14
+Enter score for Math (0-100): 90
+Enter score for English (0-100): 20
+Enter score for Physics (0-100): 50
+Enter score for Chemistry (0-100): 44
+Enter score for Biology (0-100): 80 
+Grades recorded successfully.
+
+Enter your choice: 3
+Enter student ID: 14
+GPA for james: 2.40
+
+Enter your choice: 4
+Enter student ID: 14
+
+Student: james (ID: 14)
+Highest Scores: 100 (Subjects: Math, English)
+Lowest Scores: 20 (Subjects: Chemistry, Biology)
+
+Enter your choice: 5
+Student ID: 101
+Name: Alice
+Grades:
+  Math: 85 (A)
+  English: 92 (A)
+  Physics: 75 (A)
+  Chemistry: 52 (C)
+  Biology: 90 (A)
+GPA: 3.60
+------------------------
+Student ID: 102
+Name: Bob
+Grades:
+  Math: 60 (B)
+  English: 78 (A)
+  Physics: 52 (C)
+  Chemistry: 45 (D)
+  Biology: 65 (B)
+GPA: 2.60
+------------------------
+Student ID: 103
+Name: Charlie
+Grades:
+  Math: 98 (A)
+  English: 88 (A)
+  Physics: 95 (A)
+  Chemistry: 80 (A)
+  Biology: 72 (A)
+GPA: 4.00
+------------------------
+Student ID: 14
+Name: james
+Grades:
+  Math: 100 (A)
+  English: 100 (A)
+  Physics: 90 (A)
+  Chemistry: 20 (F)
+  Biology: 20 (F)
+GPA: 2.40
+------------------------

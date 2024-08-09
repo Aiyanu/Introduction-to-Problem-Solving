@@ -1,3 +1,27 @@
-Start
-
-End
+1. Start
+2. Print( 
+3.     Menu with options:
+4.    1. Add Student
+5.     2. Record Grades
+6.     3. Calculate GPA
+7.     4. Find Highest/Lowest GPAs
+8.     5. Display Records
+9.     6. Exit
+10.     )
+11. choice=input("Enter your choice: ")
+12. Get User Choice
+13. while choice != 6
+14.     if(choice==1)
+15         1. Add Student
+16.     elif(choice==2)
+17.         2. Record Grades
+18.     elif(choice==3)
+19.         3. Calculate GPA
+20.     elif(choice==4)
+21.         4. Find Highest/Lowest GPAs
+22.     elif(choice==4)
+23.         5. Display Records
+24.     else
+25.         Invalid Input
+26.     Repeat steps 2-25 until the user chooses to 6 or exit.
+27. End

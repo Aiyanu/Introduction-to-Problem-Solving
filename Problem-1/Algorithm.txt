@@ -1,3 +1,19 @@
 Start
-
+Display Main Menu with options:
+    1. Add Student
+    2. Record Grades
+    3. Calculate GPA
+    4. Find Highest/Lowest GPAs
+    5. Display Records
+    6. Exit
+Get User Choice
+Perform action based on choice:
+    1. Add Student
+    2. Record Grades
+    3. Calculate GPA
+    4. Find Highest/Lowest GPAs
+    5. Display Records
+    6. Exit:
+    Terminate the program
+    Repeat steps 3-5 until the user chooses to exit.
 End
